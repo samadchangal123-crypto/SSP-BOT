@@ -1,0 +1,19 @@
+{
+  "antibadword": {},
+  "antilink": {
+    "120363425355534984@g.us": {
+      "enabled": true,
+      "action": "delete"
+    },
+    "120363425789421868@g.us": {
+      "enabled": true,
+      "action": "delete"
+    }
+  },
+  "welcome": {},
+  "goodbye": {},
+  "chatbot": {},
+  "antitag": {},
+  "warnings": {},
+  "sudo": []
+}
